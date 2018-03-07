@@ -1,4 +1,13 @@
 h1 {
-    color: purple;
+    color: rgb(172, 65, 172);
     font-family: "Segoe UI", sans-serif;
+}
+
+p {
+    color: seashell;
+    font-family: "Segoe UI", sans-serif;
+}
+
+body {
+    background-color: #2b2530;
 }
